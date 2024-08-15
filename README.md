@@ -1,4 +1,4 @@
-### Multi-Model Approach for Generating Quality Educational Questions
+### Multi-Model Approach for Generating Quality Educational Questions.
 
 **Objective:**
 The goal is to generate high-quality educational questions across various subjects—Physics, Chemistry, Science, Mathematics, and Computer Science—using a combination of state-of-the-art large language models (LLMs). This document provides a detailed explanation of how Claude 2, Gemini 1.5 Flash, and LLaMA 2 are utilized in a multi-model approach to maximize the quality and relevance of questions generated for each subject.
